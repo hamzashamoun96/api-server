@@ -33,7 +33,7 @@ Note : use postman to check it out and fill the body ( json format ) with the pr
 [Github Actions](https://github.com/hamzashamoun96/api-server/actions)
 
 ## Github Pull Request
-[Pull Request](https://github.com/hamzashamoun96/basic-express-server/pull/1)
+[Pull Request](https://github.com/hamzashamoun96/api-server/pull/2)
 
 ## Test
 * for testing the application run the command npm test.
